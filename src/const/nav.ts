@@ -1,17 +1,14 @@
 export const NAV = [
   {
-    text: '首页'
+    text: '首页',
+    src: '/home'
   },
   {
-    text: 'css'
+    text: '前端开发',
+    src: '/front-end'
   },
   {
-    text: 'vue'
-  },
-  {
-    text: 'react'
-  },
-  {
-    text: '网络'
+    text: '网络',
+    src: '/network'
   }
 ]
