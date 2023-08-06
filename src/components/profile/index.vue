@@ -1,9 +1,11 @@
 <template>
-    <div>
-        我是个人主页111
+    <div class="common-layout">
+      <el-container>
+        <el-aside width="200px">Aside</el-aside>
+        <el-main>Main</el-main>
+      </el-container>
     </div>
-</template>
-
+  </template>
 <script setup lang="ts">
 import './index.less'
 
